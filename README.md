@@ -7,4 +7,4 @@ Name | Description | Source Codes
 [Outline](https://www.getoutline.com/) | Team wiki & knowledge base | [Github](https://github.com/outline/outline)
 [Vercel](https://vercel.com/) | Develop. Preview. Ship. |  [Github](https://github.com/zeit)
 [Docker](https://www.docker.com/) | Empowering App Development for Developers | [Github](https://github.com/docker)
-[OBS Studio](https://obsproject.com/) | Free and open source software for live streaming and screen recording | [Github](https://github.com/obsproject/obs-studio)
+[OBS Studio](https://obsproject.com/) | Software for live streaming and screen recording | [Github](https://github.com/obsproject/obs-studio)
