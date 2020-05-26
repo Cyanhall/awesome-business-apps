@@ -16,3 +16,4 @@ Name | Description | Source Codes
 [Docker](https://www.docker.com/) | Empowering App Development for Developers | [Github](https://github.com/docker)
 [OBS Studio](https://obsproject.com/) | Software for live streaming and screen recording | [Github](https://github.com/obsproject/obs-studio)
 [Blender](https://www.blender.org/) | 3D creation suite. | [Github](https://github.com/blender/blender)
+[OpenShot](https://www.openshot.org/) |  Video Editor for Linux, Mac, and Windows | [Github](https://github.com/OpenShot/openshot-qt)
